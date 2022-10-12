@@ -2,10 +2,10 @@
   "short_name": "Share",
   "name": "Share Target Test",
   "share_target": {
-    "action": "target.html",
+    "action": "",
     "params": {
       "title": "title",
-      "text": "text",
+      "text": "api",
       "url": "url"
     }
   },
