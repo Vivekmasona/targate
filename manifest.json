@@ -1,8 +1,8 @@
 {
   "short_name": "Share",
-  "name": "Share Target Test",
+  "name": "Share Target vivek",
   "share_target": {
-    "action": "",
+    
     "params": {
       "title": "title",
       "text": "api",
